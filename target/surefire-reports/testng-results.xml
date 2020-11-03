@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="38" started-at="2020-10-29T12:18:04 EDT" finished-at="2020-10-29T12:18:04 EDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="38" started-at="2020-10-29T12:18:04 EDT" finished-at="2020-10-29T12:18:04 EDT">
+      <class name="mavenjava.maven.TrappedTest">
+        <test-method status="PASS" signature="deathnote()[pri:0, instance:mavenjava.maven.TrappedTest@6500df86]" name="deathnote" duration-ms="0" started-at="2020-10-29T12:18:04 EDT" finished-at="2020-10-29T12:18:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deathnote -->
+      </class> <!-- mavenjava.maven.TrappedTest -->
+      <class name="mavenjava.maven.AdventureTest">
+        <test-method status="PASS" signature="moonshine()[pri:0, instance:mavenjava.maven.AdventureTest@42dafa95]" name="moonshine" duration-ms="3" started-at="2020-10-29T12:18:04 EDT" finished-at="2020-10-29T12:18:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moonshine -->
+        <test-method status="PASS" signature="vault()[pri:0, instance:mavenjava.maven.AdventureTest@42dafa95]" name="vault" duration-ms="0" started-at="2020-10-29T12:18:04 EDT" finished-at="2020-10-29T12:18:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vault -->
+      </class> <!-- mavenjava.maven.AdventureTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
